@@ -24,7 +24,7 @@ namespace Project_Aurora_2._0
 
             Handler = new CommandHandler();
 
-            await Client.LoginAsync(Discord.TokenType.Bot, "MjczMTM1OTc0NjA5ODQ2Mjcy.Xibuzg.jVJL-OH0gSQ9oumQ0AsxZqEcDOc", true);
+            await Client.LoginAsync(Discord.TokenType.Bot, "<Your bot token>", true);
 
             await Client.StartAsync();
 
