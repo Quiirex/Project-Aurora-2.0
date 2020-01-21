@@ -41,6 +41,7 @@ Scroll down to OAuth2 URL Generator and under Scopes tick bot.
 Scroll down further to Bot Permissions and select the permissions that you wish to assign your bot with.
 
 *NOTE*
+
 This will assign the bot with a special "managed" role that no one else can use. The permissions can be changed later in the roles settings if you ever change your mind!
 
 Open the generated authorization URL in your browser.
@@ -49,6 +50,7 @@ Select a server.
 Click on Authorize.
 
 *NOTE*
+
 Only servers where you have the MANAGE_SERVER permission will be present in this list.
 
 ![Slika2](https://discord.foxbot.me/stable/guides/getting_started/images/intro-authorize.png)
