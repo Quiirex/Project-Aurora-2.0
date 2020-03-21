@@ -5,6 +5,6 @@ A Discord.NET based multipurpose Discord bot written in C#.
 
 Discord.NET 2.1.1 or above required to run.
 
-Also make sure you have your bot set up.
+Also make sure you have your bot "base" set up in discord.
 
 Packages not included.
